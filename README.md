@@ -4,6 +4,8 @@
 
 A series of interactive lab notebooks we prepared for the **Chartered Financial Data Scientist (CFDS)** Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
+Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseAIML)
+
 This is currently work in progress so expect minor errors and some rough edges ;)
 
 ## Running the Lab Notebooks
