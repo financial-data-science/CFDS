@@ -1,3 +1,7 @@
+## Chartered Financial Data Scientest Repository
+
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
 A series of interactive lab notebooks we prepared for the **Chartered Financial Data Scientist (CFDS)** Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
 This is currently work in progress so expect minor errors and some rough edges ;)
