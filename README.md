@@ -1,4 +1,4 @@
-## Chartered Financial Data Scientest Repository
+## Chartered Financial Data Scientist (CFDS) Repository
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
