@@ -16,6 +16,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 02:** "Fundementals of Python Programming" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_02/cfds_colab_02.ipynb))
 
+**Lab 03:** "Exemplary Financial Data Science Process" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_03/cfds_colab_03.ipynb))
+
 **Lab 04:** "Supervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_04/cfds_colab_04.ipynb))
 
 ## Getting Started
