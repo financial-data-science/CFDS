@@ -14,6 +14,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 01:** "Introduction to the Lab Environment" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_01/cfds_colab_01.ipynb))
 
+**Lab 02:** "Fundementals of Python Programming" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_02/cfds_colab_02.ipynb))
+
 ## Getting Started
 
 Install dependencies via `pip install -r requirements.txt`.
