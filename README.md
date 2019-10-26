@@ -20,6 +20,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 04:** "Supervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_04/cfds_colab_04.ipynb))
 
+**Lab 05:** "Unsupervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_05/cfds_colab_05.ipynb))
+
 ## Getting Started
 
 Install dependencies via `pip install -r requirements.txt`.
