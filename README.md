@@ -26,7 +26,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 07:** "Deep Learning - Convolutional Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_07/cfds_colab_07.ipynb))
 
-**Lab 08:** "Deep Learning - Long Short-Term Memory Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_08/cfds_colab_08.ipynb))
+**Lab 08:** "Deep Learning - Long Short-Term Memory Neural Networks" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_08/cfds_colab_08.ipynb))(GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_08/cfds_colab_08_gpu.ipynb))
 
 ## Getting Started
 
