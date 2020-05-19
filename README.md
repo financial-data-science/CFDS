@@ -12,7 +12,7 @@ This is currently work in progress so please expect minor errors and some rough 
 
 ## Running the Lab Notebooks
 
-**Lab 00:** "Testing the CFDS Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_00%2Fcfds_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_00/cfds_lab_00.ipynb))
+**Lab 00:** "Testing the CFDS Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_00%2Fcfds_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_00/cfds_colab_00.ipynb))
 
 **Lab 01:** "Introduction to the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_01%2Fcfds_lab_01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_01/cfds_colab_01.ipynb))
 
