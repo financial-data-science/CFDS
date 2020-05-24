@@ -10,7 +10,7 @@ Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks
 
 This is currently work in progress so please expect minor errors and some rough edges ;)
 
-## "Warm-Up" Lab Notebooks
+## Seminar "Warm-Up" - Lab Notebooks
 
 **Lab 00:** "Testing the CFDS Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_00%2Fcfds_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_00/cfds_colab_00.ipynb))
 
@@ -18,7 +18,7 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 02:** "Fundementals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_02%2Fcfds_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_02/cfds_colab_02.ipynb))
 
-## First Day Lab Notebooks
+## First Seminar Day - Lab Notebooks
 
 **Lab 03:** "Moving Average Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_03%2Fcfds_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_03/cfds_colab_03.ipynb))
 
