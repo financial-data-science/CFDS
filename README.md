@@ -1,10 +1,10 @@
-## Chartered Financial Data Scientist (CFDS) :: Notebook Repository
+## Chartered Financial Data Scientist (CFDS) &reg;
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ![Course Banner](https://github.com/financial-data-science/CFDS-4/blob/master/banner.png)
 
-A series of interactive lab notebooks we prepared for the **Chartered Financial Data Scientist (CFDS)** Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.
+A series of interactive lab notebooks we prepared for the DFVA and AZEK **Chartered Financial Data Scientist (CFDS) &reg;** Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/CFDS)
 
@@ -24,7 +24,7 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 04:** "Mean Reversion Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_04%2Fcfds_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
 
-**Lab 05:** "Supervised Machine Learning I" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
+**Lab 05:** "Supervised Machine Learning I - Naive Bayes, k-Nearest Neighbors" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
 
 <!---
 
