@@ -9,7 +9,7 @@ bt==0.2.7
 ffn==0.3.4
 scikit-learn>=0.19.0
 scipy>=1.0.0
-skimage>=0.16.1
+scikit-image>=0.16.1
 seaborn>=0.9.0
 torch==1.2.0
 torchvision==0.2.2.post3
