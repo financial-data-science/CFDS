@@ -28,6 +28,10 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 06:** "Supervised Machine Learning - Support Vector Machines" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_06%2Fcfds_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_06/cfds_colab_06.ipynb))
 
+## Second Seminar Day - Lab Notebooks
+
+(more lab notebooks to be published ...)
+
 <!---
 
 **Lab 05:** "Unsupervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_05/cfds_colab_05.ipynb))
