@@ -24,7 +24,9 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 04:** "Mean Reversion Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_04%2Fcfds_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
 
-**Lab 05:** "Supervised Machine Learning I - Naive Bayes, k-Nearest Neighbors" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
+**Lab 05:** "Supervised Machine Learning - Naive Bayes, k-Nearest Neighbors" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
+
+**Lab 06:** "Supervised Machine Learning - Support Vector Machines" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_06%2Fcfds_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_06/cfds_colab_06.ipynb))
 
 <!---
 
