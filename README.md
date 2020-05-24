@@ -24,7 +24,7 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 04:** "Mean Reversion Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_04%2Fcfds_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
 
-**Lab 04:** "Supervised Machine Learning I" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
+**Lab 05:** "Supervised Machine Learning I" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
 
 <!---
 
