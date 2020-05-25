@@ -34,6 +34,8 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 08:** "Deep Learning - Artificial Neural Networks (ANNs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_08%2Fcfds_lab_08.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_08/cfds_colab_08.ipynb))
 
+**Lab 09:** "Deep Learning - Convolutional Neural Networks (CNNs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_09%2Fcfds_lab_09.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_09/cfds_colab_09.ipynb))
+
 ## Webinars - Lab Notebooks
 
 (more lab notebooks to be published ...)
