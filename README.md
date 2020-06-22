@@ -38,19 +38,11 @@ This is currently work in progress so please expect minor errors and some rough 
 
 ## Webinars - Lab Notebooks
 
-**Lab 09:** "Deep Learning - Long Short-Term Memory Networks (LSTMs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_10%2Fcfds_lab_10.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_10/cfds_colab_10.ipynb))
+**Lab 10:** "Deep Learning - Long Short-Term Memory Networks (LSTMs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_10%2Fcfds_lab_10.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_10/cfds_colab_10.ipynb))
 
 (more lab notebooks to be published ...)
 
 <!---
-
-**Lab 05:** "Unsupervised Machine Learning" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_05/cfds_colab_05.ipynb))
-
-**Lab 06:** "Deep Learning - Artificial Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_06/cfds_colab_06.ipynb))
-
-**Lab 07:** "Deep Learning - Convolutional Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_07/cfds_colab_07.ipynb))
-
-**Lab 08:** "Deep Learning - Long Short-Term Memory Neural Networks" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_08/cfds_colab_08.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-4/blob/master/lab_08/cfds_colab_08_gpu.ipynb))
 
 -->
 
