@@ -40,6 +40,8 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 10:** "Deep Learning - Long Short-Term Memory Networks (LSTMs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_10%2Fcfds_lab_10.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_10/cfds_colab_10.ipynb))
 
+**Lab 11:** "Deep Learning - Autoencoder Neural Networks (AENNs)" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_11%2Fcfds_lab_11.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_11/cfds_colab_11.ipynb))
+
 (more lab notebooks to be published ...)
 
 <!---
