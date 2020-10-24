@@ -20,9 +20,9 @@ This is currently work in progress so please expect minor errors and some rough 
 
 ## First Seminar Day - Lab Notebooks
 
-**Lab 03:** "Moving Average Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_03%2Fcfds_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_03/cfds_colab_03.ipynb))
+**Lab 03:** "Financial Data Science - Moving Average Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_03%2Fcfds_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_03/cfds_colab_03.ipynb))
 
-**Lab 04:** "Mean Reversion Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_04%2Fcfds_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
+**Lab 04:** "Financial Data Science - Mean Reversion Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_04%2Fcfds_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_04/cfds_colab_04.ipynb))
 
 **Lab 05:** "Supervised Machine Learning - Naive Bayes, k-Nearest Neighbors" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_05/cfds_colab_05.ipynb))
 
